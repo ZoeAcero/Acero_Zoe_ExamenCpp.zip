@@ -2,6 +2,8 @@
 
 https://github.com/ZoeAcero/Acero_Zoe_ExamenCpp.zip.git
 
+De ayudas externas he usado copilot y chatgpt
+
 Dentro de la  carpeta Acero_Zoe_ExamenCpp.zip, hay diez carpetas distintas con cada uno de los apartados de la parte 2
 
 En la de EJ1 se encuentran las operaciones básicas
