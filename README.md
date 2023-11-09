@@ -3,15 +3,25 @@
 https://github.com/ZoeAcero/Acero_Zoe_ExamenCpp.zip.git
 
 Dentro de la  carpeta Acero_Zoe_ExamenCpp.zip, hay diez carpetas distintas con cada uno de los apartados de la parte 2
+
 En la de EJ1 se encuentran las operaciones básicas
+
 En el EJ2 se encuentra la gestión de estudiantes
+
 En el EJ3 se encuentra la optimizacion de memoria
+
 En el EJ4 se encuentra el manejo de excepciones
+
 En el EJ5 se encuentra el registro de materias
+
 En el EJ6 se encuentra el promedio del estudiante
+
 En el EJ7 se encuentra el manejo de ausencia
+
 En el EJ8 se encuentra el filtrado de estudiantes por grado
+
 En el EJ9 se encuentra la gestión de excepciones personalizadas
+
 En el EJ10 se encuentra el registro de profesores
 
 
